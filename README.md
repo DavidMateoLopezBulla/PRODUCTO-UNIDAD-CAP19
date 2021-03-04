@@ -7,7 +7,10 @@
 
 #### Cálculadora que permite la rápida conversion de unidaes especializada en Circuitos eléctricos.
 Se puede escoger desde una amplia varriedad de categorías para las unidades de medidas en este caso para circuitos electricos desde Corriente eléctrica, Flujo magnético,
-Fuerza magnetomotriz hasta Resistencia eléctrica, Potencia, etc.
+Fuerza magnetomotriz hasta Resistencia eléctrica, Potencia,Inductancia etc.
+
+
+![image](https://user-images.githubusercontent.com/76136049/109907565-8f762c80-7c70-11eb-9278-b6b4382c955c.png)
 
 A continuación se muestran un ejemplo y los pasos a seguir para la correcta ejecución de cálculos y el enlace para obtener acceso a la misma.
 
