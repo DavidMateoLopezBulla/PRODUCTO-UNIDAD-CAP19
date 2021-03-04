@@ -81,4 +81,6 @@ Si una marca de verificación se ha colocado junto a 'números en una notación 
 
 Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
 
+Redes delta-estrella de resistencias (artículo). (2018). Khan Academy. Recuperado de : https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-delta-wye-resistor-networks
 
+A. (2019, 26 octubre). Teorema de transferencia de potencia máxima. La fisica y quimica. Recuperado de: https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
