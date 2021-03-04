@@ -28,7 +28,7 @@ Se puede escoger desde una amplia varriedad de categorías para las unidades de 
 Fuerza magnetomotriz hasta Resistencia eléctrica, Potencia,Inductancia etc.
 
 
-
+![image](https://user-images.githubusercontent.com/76136049/109908278-f9430600-7c71-11eb-95d4-1b59ccda7d0a.png)
 
 
 ![image](https://user-images.githubusercontent.com/76136049/109907565-8f762c80-7c70-11eb-9278-b6b4382c955c.png)
