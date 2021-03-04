@@ -2,6 +2,7 @@
 
 
 Concluciones
+
 Se debe analizar el circuito antes de aplicar los teoremas estudiados en este capitulo.
 
 Si se tiene un circuito con varias fuentes se debería aplicar el teorema de superposición.
