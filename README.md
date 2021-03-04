@@ -1,5 +1,23 @@
 # PRODUCTO-UNIDAD-CAP19
 
+Objetivos generales
+
+Analizar circuitos en CA.
+
+Estudiar teoremas que facilitan el análisis de ciertos tipos de circuitos.
+
+Estudiar los teoremas de  Thevenin, Norton y Superpocicion.
+
+Objetivos especificos
+
+Aplicar el teorema de superposición al análisis de circuitos de ca.
+
+Aplicar el teorema de Thévenin para simplificar circuitos reactivos de ca para su análisis.
+
+Aplicar el teorema de Norton para simplificar circuitos reactivos de ca.
+
+Aplicar el teorema de transferencia de potencia máxima
+
 
 
 
