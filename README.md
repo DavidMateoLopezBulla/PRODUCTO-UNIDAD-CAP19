@@ -49,7 +49,7 @@ Además, la calculadora hace posible usar las expresiones matemáticas. Como res
 
 Si una marca de verificación se ha colocado junto a 'números en una notación científica', la respuesta aparecerá como un exponente. Por ejemplo, 5,056 790 077 44×1022. Para esta forma de presentación, el número se segmentará en un exponente, en este caso, 22 y el número actual, aquí 5,056 790 077 44. En los dispositivos en los que mostrar los números tiene límites, como, por ejemplo, las calculadoras de bolsillo, uno encuentra también la forma de escribir los números como 5,056 790 077 44E+22. En particular, esto hace que los números más grandes y más pequeños sean más fáciles de leer. Si no tiene una marca de verificación en este punto, entonces el resultado se da en la forma habitual de escribir los números. En el ejemplo de arriba, tendría el aspecto siguiente: 50 567 900 774 400 000 000 000. Independientemente de cómo se presenten los resultados, la máxima precisión de esta calculadora es de 14 lugares. Esto debería ser lo suficientemente preciso para la mayoría de las aplicaciones.
 
-
+### Enlace para obtener acceso a la herramienta : https://www.convertir-unidades.info/convertidor-de-unidades.php?tipo=inductancia
 
 
 
