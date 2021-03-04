@@ -9,7 +9,7 @@
 ---------------------------------------------
 ### OBJETIVOS 
 	
-#### Objetivos generales
+#### OBJETIVOS GENERALES
 
 - Analizar circuitos en CA.
 
@@ -17,7 +17,7 @@
 
 - Estudiar los teoremas de  Thevenin, Norton y Superpocicion.
 
-#### Objetivos especificos
+#### OBJETIVOS ESPECFIFICOS 
 
 - Aplicar el teorema de superposición al análisis de circuitos de ca.
 
