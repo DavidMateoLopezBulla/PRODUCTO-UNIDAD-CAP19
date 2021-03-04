@@ -1,23 +1,33 @@
 # PRODUCTO-UNIDAD-CAP19
 
+- DAVID LOPEZ
+- MARIU CORREA
+- DANNY JIMENEZ
+
+
+
+---------------------------------------------
+### OBJETIVOS 
+	
 Objetivos generales
 
 Analizar circuitos en CA.
 
-Estudiar teoremas que facilitan el análisis de ciertos tipos de circuitos.
+- Estudiar teoremas que facilitan el análisis de ciertos tipos de circuitos.
 
-Estudiar los teoremas de  Thevenin, Norton y Superpocicion.
+- Estudiar los teoremas de  Thevenin, Norton y Superpocicion.
 
 Objetivos especificos
 
-Aplicar el teorema de superposición al análisis de circuitos de ca.
+- Aplicar el teorema de superposición al análisis de circuitos de ca.
 
-Aplicar el teorema de Thévenin para simplificar circuitos reactivos de ca para su análisis.
+- Aplicar el teorema de Thévenin para simplificar circuitos reactivos de ca para su análisis.
 
-Aplicar el teorema de Norton para simplificar circuitos reactivos de ca.
+- Aplicar el teorema de Norton para simplificar circuitos reactivos de ca.
 
-Aplicar el teorema de transferencia de potencia máxima
+- Aplicar el teorema de transferencia de potencia máxima
 
+### MARCO TEORICO
 
 
 
@@ -55,14 +65,20 @@ Si una marca de verificación se ha colocado junto a 'números en una notación 
 
 ## CONCLUSIONES
 
-Se debe analizar el circuito antes de aplicar los teoremas estudiados en este capitulo.
+- Se debe analizar el circuito antes de aplicar los teoremas estudiados en este capitulo.
 
-Si se tiene un circuito con varias fuentes de voltaje o corriente, se debe aplicar el teorema de superposición para una resolución más eficaz.
+- Si se tiene un circuito con varias fuentes de voltaje o corriente, se debe aplicar el teorema de superposición para una resolución más eficaz.
 
-Los teoremas de Thévenin y de Norton al ser muy parecidos pueden ser aplicados en circuitos muy complejos para reducirlos a circuitos equivalentes y facilitar su resolución.
+- Los teoremas de Thévenin y de Norton al ser muy parecidos pueden ser aplicados en circuitos muy complejos para reducirlos a circuitos equivalentes y facilitar su resolución.
 
-Cuando la impedancia de carga es el elemento más complejo conjugado de la impedancia del circuito de control se transfiere la máxima potencia
+- Cuando la impedancia de carga es el elemento más complejo conjugado de la impedancia del circuito de control se transfiere la máxima potencia
 
+### **Anexos**
 
+[Link Video](https://youtu.be/nOkSgx55jtY)
+
+### Bibliografía
+
+Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
 
 
