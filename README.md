@@ -29,6 +29,7 @@
 
 ### MARCO TEORICO
 
+![Marco teórico](https://user-images.githubusercontent.com/76136485/109909078-79b63680-7c73-11eb-8dac-009ec5db71b9.jpg)
 
 
 ## APORTACIONES
