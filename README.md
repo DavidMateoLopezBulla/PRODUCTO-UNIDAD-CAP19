@@ -64,7 +64,7 @@ Si una marca de verificación se ha colocado junto a 'números en una notación 
 
 
 
-## CONCLUSIONES
+### CONCLUSIONES
 
 - Se debe analizar el circuito antes de aplicar los teoremas estudiados en este capitulo.
 
